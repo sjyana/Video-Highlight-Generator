@@ -1,0 +1,6 @@
+tkinterdnd2==0.4.3
+pillow==11.1.0
+customtkinter==5.2.2
+CTkMessagebox==2.7
+tkVideo==0.1
+opencv-python==4.11.0.86
